@@ -3,11 +3,15 @@ layout: page
 title: Tools
 permalink: /tools/
 ---
-#Theosophic Extension
+
+##Theosophic Extension
+
 <input type="text" id="input-number">
 <button onclick="calculateTeosophicExtension()">Theosophic ext</button>
 <p id="result"></p>
-#Theosophic Root
+
+##Theosophic Root
+
 <input type="text" id="input">
 <button id="btn">Theosophic Root</button>
 <div id="output"></div>
