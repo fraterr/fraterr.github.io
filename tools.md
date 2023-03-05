@@ -61,3 +61,64 @@ document.getElementById("btn").addEventListener("click", function() {
 
 <h3>Gematria database</h3>
 Input a number to find out hebrew words correspondences
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Number Divider</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <h3>Articulation</h3>
+	<style>
+		#calculate-button {
+			background-color: blue;
+			color: white;
+		}
+	</style>
+</head>
+<body>
+	<input type="text" id="number-input">
+	<button id="calculate-button">Calculate</button>
+	<p id="output"></p>
+
+	<script src="script.js"></script>
+</body>
+</html>
+
+<script>
+
+
+// Get the necessary elements from the DOM
+const numberInput = document.getElementById("number-input");
+const calculateButton = document.getElementById("calculate-button");
+const outputElement = document.getElementById("output");
+
+// Add an event listener to the button
+calculateButton.addEventListener("click", function() {
+    // Get the input value and convert it to a number
+    let inputValue = Number(numberInput.value);
+
+    // Divide the number into units
+    const units = [1000000000000, 100000000000, 10000000000, 1000000000, 100000000, 10000000, 10000000, 1000000, 100000, 10000, 1000, 100, 10, 1];
+    let result = "";
+    let foundNonZero = false;
+    for (let i = 0; i < units.length; i++) {
+        const unitValue = Math.floor(inputValue / units[i]);
+        if (unitValue > 0 || foundNonZero) {
+            foundNonZero = true;
+            result += unitValue * units[i] + ";";
+        }
+        inputValue -= unitValue * units[i];
+    }
+
+    // Display the output
+    if (!foundNonZero) {
+        outputElement.textContent = inputValue;
+    } else {
+        outputElement.textContent = result.slice(0, -1); // Remove the last semicolon
+    }
+});
+</script>
