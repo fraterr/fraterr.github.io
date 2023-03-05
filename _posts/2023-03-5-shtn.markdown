@@ -4,7 +4,7 @@ title:  "Shtn - Satan in tarot and Kabbalah"
 date:   2023-03-05 02:30:19 +0100
 ---
 
-[shtn](/images/shtn.jpg){:class="img-responsive"}{: .align-center} 
+[shtn](/images/shtn.jpg){:class="img-responsive"}{:.align-center} 
 
 
 - Shin Teth Nun, **300**+**9**+**50** = **359**.
