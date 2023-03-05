@@ -4,13 +4,13 @@ title: Tools
 permalink: /tools/
 ---
 
-##Theosophic Extension
+<h1>Theosophic Extension</h1>
 
 <input type="text" id="input-number">
 <button onclick="calculateTeosophicExtension()">Theosophic ext</button>
 <p id="result"></p>
 
-##Theosophic Root
+<h1>Theosophic Root</h1>
 
 <input type="text" id="input">
 <button id="btn">Theosophic Root</button>
