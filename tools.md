@@ -4,13 +4,13 @@ title: Tools
 permalink: /tools/
 ---
 
-<h1>Theosophic Extension</h1>
+<h2>Theosophic Extension</h2>
 
 <input type="text" id="input-number">
 <button onclick="calculateTeosophicExtension()">Theosophic ext</button>
 <p id="result"></p>
 
-<h1>Theosophic Root</h1>
+<h2>Theosophic Root</h2>
 
 <input type="text" id="input">
 <button id="btn">Theosophic Root</button>
@@ -52,5 +52,5 @@ document.getElementById("btn").addEventListener("click", function() {
 });
 </script>
 
-#Gematria database
+<h2>Gematria database</h2>
 Input a number to find out hebrew words correspondences
