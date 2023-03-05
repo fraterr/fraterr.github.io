@@ -11,8 +11,7 @@ title:  "Theosophic operations"
 <div id="output"></div>
 
 
-
-
+<script>
 function calculateTeosophicExtension() {
   var inputNumber = document.getElementById("input-number").value; // Recupera il valore inserito nella casella di testo
   var teosophicSum = 0;
@@ -45,3 +44,4 @@ document.getElementById("btn").addEventListener("click", function() {
     document.getElementById("output").innerHTML = "The number " + input + " is not a theosophic extension";
   }
 });
+</script>
