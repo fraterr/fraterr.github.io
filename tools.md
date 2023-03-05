@@ -75,7 +75,7 @@ Input a number to find out hebrew words correspondences
 <body>
 	<input type="text" id="number-input">
 	<button id="calculate-button">Calculate</button>
-	<p id="output"></p>
+	<p id="output1"></p>
 
 	<script src="script.js"></script>
 </body>
@@ -87,7 +87,7 @@ Input a number to find out hebrew words correspondences
 // Get the necessary elements from the DOM
 const numberInput = document.getElementById("number-input");
 const calculateButton = document.getElementById("calculate-button");
-const outputElement = document.getElementById("output");
+const outputElement = document.getElementById("output1");
 
 // Add an event listener to the button
 calculateButton.addEventListener("click", function() {
