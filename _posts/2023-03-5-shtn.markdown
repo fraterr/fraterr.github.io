@@ -5,7 +5,7 @@ date:   2023-03-05 02:30:19 +0100
 ---
 
 <div style="text-align:center;">
-  <img src="images/shtn.jpg" alt="shtn">
+  <img src="/images/shtn.jpg" alt="shtn">
 </div>
 
 - Shin Teth Nun, **300**+**9**+**50** = **359**.
