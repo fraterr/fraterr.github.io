@@ -65,20 +65,13 @@ Input a number to find out hebrew words correspondences
 
 
 
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Number Divider</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
   <h3>Articulation</h3>
-	<style>
-		#calculate-button {
-			background-color: blue;
-			color: white;
-		}
-	</style>
-</head>
+	</head>
 <body>
 	<input type="text" id="number-input">
 	<button id="calculate-button">Calculate</button>
