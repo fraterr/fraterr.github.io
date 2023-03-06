@@ -125,7 +125,7 @@ calculateButton.addEventListener("click", function() {
 	<label for="input-text">Input word or sentence:</label>
 	<input type="text" id="input-text">
 	<button onclick="calculate()">Calculate</button>
-	<p id="output"></p>
+	<p id="output-art"></p>
 
 	
 </body>
@@ -172,6 +172,6 @@ calculateButton.addEventListener("click", function() {
 			}
 
 			// Output the result
-			document.getElementById("output").innerHTML = "Result: " + sum;
+			document.getElementById("output-art").innerHTML = "Result: " + sum;
 		}
 </script>
