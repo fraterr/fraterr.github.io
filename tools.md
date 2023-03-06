@@ -9,6 +9,7 @@ This section is dedicated to tools mainly concerning Kabbalah (QBLH).<br><br>
 <b>Theosophic extension</b> is a mathematical operation that involves summing up a sequence of consecutive integers starting from 1, up to a specified integer. Sometimes called "theosophic addition". The result of this operation is known as the secret number.<br><br>
 <b>Theosophic root</b> is the reverse operation of Theosophic extension.<br><br> 
 <b>Articulation</b> is a method that divides a number into groups or into units (e.g. units, tens, hundreds, thousands, etc.). Its purpose is to study the occult meanings of each group in order to determine the significance of the number which is being analyzed.<br><br>
+<b>Cabala Simplex Latina</b> is a Latin-based system of numerology that assigns numerical values to letters in the Latin alphabet, with each letter corresponding to a specific number.<br><br>
 
 
 <h3>Theosophic Extension</h3>
