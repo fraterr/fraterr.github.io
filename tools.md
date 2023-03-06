@@ -115,3 +115,61 @@ calculateButton.addEventListener("click", function() {
     }
 });
 </script>
+
+<html>
+
+<body>
+	<h3>Cabala Simplex Latina</h3>
+	<label for="input-text">Input word or sentence:</label>
+	<input type="text" id="input-text">
+	<button onclick="calculate()">Calculate</button>
+	<p id="output"></p>
+
+	
+</body>
+</html>
+
+<script>
+
+		function calculate() {
+			// Get the input text
+			const inputText = document.getElementById("input-text").value.toUpperCase();
+
+			// Map each letter to its corresponding number value
+			const letterValues = {
+				"A": 1,
+				"B": 2,
+				"C": 3,
+				"D": 4,
+				"E": 5,
+				"F": 6,
+				"G": 7,
+				"H": 8,
+				"I": 9,
+				"L": 10,
+				"M": 11,
+				"N": 12,
+				"O": 13,
+				"P": 14,
+				"Q": 15,
+				"R": 16,
+				"S": 17,
+				"T": 18,
+				"U": 19,
+				"V": 20,
+				"Z": 21
+			};
+
+			// Calculate the sum of the letter values
+			let sum = 0;
+			for (let i = 0; i < inputText.length; i++) {
+				const letter = inputText.charAt(i);
+				if (letter in letterValues) {
+					sum += letterValues[letter];
+				}
+			}
+
+			// Output the result
+			document.getElementById("output").innerHTML = "Result: " + sum;
+		}
+</script>
