@@ -13,13 +13,13 @@ This section is dedicated to tools mainly concerning Kabbalah (QBLH).<br><br>
 
 
 <h3>Theosophic Extension</h3>
-
+<label for="input-text">Input a number:</label>
 <input type="text" id="input-number">
 <button onclick="calculateTeosophicExtension()">Theosophic ext</button>
 <p id="result"></p>
 
 <h3>Theosophic Root</h3>
-
+<label for="input-text">Input a number:</label>
 <input type="text" id="input">
 <button id="btn">Theosophic Root</button>
 <div id="output"></div>
@@ -74,6 +74,7 @@ Input a number to find out hebrew words correspondences
   <h3>Articulation</h3>
 	</head>
 <body>
+	<label for="input-text">Input a number:</label>
 	<input type="text" id="number-input">
 	<button id="calculate-button">Calculate</button>
 	<p id="output1"></p>
