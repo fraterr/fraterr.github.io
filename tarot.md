@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tarot Posts
+title: Tarot
 ---
 
 <h1>Tarot Posts</h1>
