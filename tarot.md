@@ -4,10 +4,11 @@ title: "Tarot"
 permalink: /tarot/
 ---
 
-<h2>Tarot</h2>
+<h1>Tutti i post della categoria <tarot></h1>
 
-<ul>
-{% for post in site.tarot %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% for post in site.posts %}
+  {% if post.categories contains 'tarot' %}
+    <h2>{{ post.title }}</h2>
+    <p>{{ post.content }}</p>
+  {% endif %}
 {% endfor %}
-</ul>
