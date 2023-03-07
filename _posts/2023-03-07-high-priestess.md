@@ -6,7 +6,7 @@ categories: [tarot]
 ---
 
 <div style="text-align: center;">
-  <img src="/images/highpriestess.jpg" alt="high priestess" style="width: 70%;" />
+  <img src="/images/highpriestess.jpg" alt="high priestess" style="width: 20%;" />
 </div>
 <br><br>
 - On the two pillars are engraved the letters beth and yod, value of 2 and 10 respectively. The sum is 12, as:
