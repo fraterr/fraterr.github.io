@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Tutti i post della categoria 1"
+title: "Tarot"
 permalink: /tarot/
 ---
 
-<h2>Tutti i post della categoria 1</h2>
+<h2>Tarot</h2>
 
 <ul>
 {% for post in site.tarot %}
