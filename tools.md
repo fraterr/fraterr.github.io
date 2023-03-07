@@ -10,6 +10,8 @@ This section is dedicated to tools mainly concerning Kabbalah (QBLH).<br><br>
 <b>Theosophic root</b> is the reverse operation of Theosophic extension.<br><br> 
 <b>Articulation</b> is a method that divides a number into groups or into units (e.g. units, tens, hundreds, thousands, etc.). Its purpose is to study the occult meanings of each group in order to determine the significance of the number which is being analyzed.<br><br>
 <b>Cabala Simplex Latina</b> is a Latin-based system of numerology that assigns numerical values to letters in the Latin alphabet, with each letter corresponding to a specific number.<br><br>
+<b>Gematria Calculator</b> is a tool that calculates the numerical value of Hebrew letters and words, providing insights into their hidden meanings. Simply input a word or phrase, and the calculator will sum the values of each letter to reveal its Gematria value.<br><br>
+ 
 
 
 <h3>Theosophic Extension</h3>
@@ -23,6 +25,8 @@ This section is dedicated to tools mainly concerning Kabbalah (QBLH).<br><br>
 <input type="text" id="input">
 <button id="btn">Theosophic Root</button>
 <div id="output"></div>
+
+
 
 
 <script>
