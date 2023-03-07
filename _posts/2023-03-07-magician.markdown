@@ -4,10 +4,11 @@ title:  "The Magician"
 date:   2023-03-07 02:30:19 +0100
 categories: [tarot]
 ---
-
-<div style="text-align:center;">
-  <img src="/images/magician.jpg" alt="magician" />
+<div style="text-align: center;">
+  <img src="/images/magician.jpg" alt="magician" style="width: 70%;" />
 </div>
+
+
 <br><br>
 - The Magician is associated with Mercury and, as such, with Hod. Hod receives the influence of Geburah. Above the head of The Magician, in fact, we see 5 red roses. Five is the number of Geburah. According to Dion Fortune's Mystic Kabbalah, one of Geburah's attributes is the five-petaled rose of Tudor. Just as Geburah is above Hod, the five roses are above the Magician's head. Below him is the garden, a symbol of the subconscious and Yesod. The hand of The Magician is not pointing downward, but downward, slightly to the right, in the direction of Yesod, relative to Hod. In the garden the 5 roses of Geburah are reflected but, in addition, we have the 4 lilies of knowledge. The subconscious, in fact reworks through its associative powers what, passing through the intellect, comes from the higher planes. These associations responding to impulses from the transpersonal planes create a network. Knowledge, in fact, is a network of symbols that serves as a dress for meaning. In this case, it is spiritual knowledge that becomes an idea in the human mind. The lilies, in fact, are 4 and each has 6 petals. 6 multiplied by 4 is 24. The theosophical extension of 24 is 300, value of the letter shin and Ruach Elohim, the Divine Spirit.
 
