@@ -126,8 +126,8 @@ calculateButton.addEventListener("click", function() {
 
 <body>
 	<h3>Cabala Simplex Latina</h3>
-	<label for="input-text">Input word or sentence:</label>
-	<input type="text" id="input-text">
+	<label for="input-text2">Input word or sentence:</label>
+	<input type="text" id="input-text2">
 	<button onclick="calculate()">Calculate</button>
 	<p id="output-art"></p>
 
@@ -135,7 +135,7 @@ calculateButton.addEventListener("click", function() {
 
 		function calculate() {
 			// Get the input text
-			const inputText = document.getElementById("input-text").value.toUpperCase();
+			const inputText = document.getElementById("input-text2").value.toUpperCase();
 
 			// Map each letter to its corresponding number value
 			const letterValues = {
