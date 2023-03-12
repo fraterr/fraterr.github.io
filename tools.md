@@ -199,7 +199,8 @@ calculateButton.addEventListener("click", function() {
 </html>
 
 <script>
-     const gematriaTable = {
+
+    const gematriaTable = {
     "א": 1,
     "ב": 2,
     "ג": 3,
@@ -240,4 +241,5 @@ calculateButton.addEventListener("click", function() {
         }
         document.getElementById("outputGem").innerHTML = "Gematria value: " + gematriaValue;
       }
+	  
 </script>
