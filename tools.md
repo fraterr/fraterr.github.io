@@ -196,9 +196,7 @@ calculateButton.addEventListener("click", function() {
     <p id="outputGem"></p>
    
   </body>
-</html>
-
-<script>
+  <script>
 
     const gematriaTable = {
     "א": 1,
@@ -243,3 +241,5 @@ calculateButton.addEventListener("click", function() {
       }
 	  
 </script>
+</html>
+
