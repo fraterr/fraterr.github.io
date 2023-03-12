@@ -191,41 +191,42 @@ calculateButton.addEventListener("click", function() {
     <h1>Gematria Calculator</h1>
     <p>Enter Hebrew words in the box below to calculate their Gematria value:</p>
     <input type="text" id="inputcal" />
-    <button onclick="calculate()">Calculate</button>
+    <button onclick="calculateGematria()">Calculate</button>
     <p id="outputGem"></p>
+  
+<script>
 
-    <script>
-      const gematriaTable = {
-        "א": 1,
-        "ב": 2,
-        "ג": 3,
-        "ד": 4,
-        "ה": 5,
-        "ו": 6,
-        "ז": 7,
-        "ח": 8,
-        "ט": 9,
-        "י": 10,
-        "כ": 20,
-        "ל": 30,
-        "מ": 40,
-        "נ": 50,
-        "ס": 60,
-        "ע": 70,
-        "פ": 80,
-        "צ": 90,
-        "ק": 100,
-        "ר": 200,
-        "ש": 300,
-        "ת": 400,
-        "ם": 40,
-        "ן": 50,
-        "ף": 80,
-        "ץ": 90,
-        "ך": 20
-      };
+    const gematriaTable = {
+    "א": 1,
+    "ב": 2,
+    "ג": 3,
+    "ד": 4,
+    "ה": 5,
+    "ו": 6,
+    "ז": 7,
+    "ח": 8,
+    "ט": 9,
+    "י": 10,
+    "כ": 20,
+    "ל": 30,
+    "מ": 40,
+    "נ": 50,
+    "ס": 60,
+    "ע": 70,
+    "פ": 80,
+    "צ": 90,
+    "ק": 100,
+    "ר": 200,
+    "ש": 300,
+    "ת": 400,
+    "ם": 40,
+    "ן": 50,
+    "ף": 80,
+    "ץ": 90,
+    "ך": 20
+  };
       
-      function calculate() {
+      function calculateGematria() {
         const inputc = document.getElementById("inputcal").value;
         let gematriaValue = 0;
         for (let i = 0; i < inputc.length; i++) {
@@ -236,9 +237,11 @@ calculateButton.addEventListener("click", function() {
         }
         document.getElementById("outputGem").innerHTML = "Gematria value: " + gematriaValue;
       }
-    </script>
+	  
+</script>
+  
   </body>
-</html>
+  </html>
 
 
 
