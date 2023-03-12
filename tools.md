@@ -193,7 +193,7 @@ calculateButton.addEventListener("click", function() {
     <p>Enter Hebrew words in the box below to calculate their Gematria value:</p>
     <input type="text" id="input" />
     <button onclick="calculate()">Calculate</button>
-    <p id="output"></p>
+    <p id="outputGem"></p>
    
   </body>
 </html>
@@ -238,6 +238,6 @@ calculateButton.addEventListener("click", function() {
             gematriaValue += letterValue;
           }
         }
-        document.getElementById("output").innerHTML = "Gematria value: " + gematriaValue;
+        document.getElementById("outputGem").innerHTML = "Gematria value: " + gematriaValue;
       }
 </script>
