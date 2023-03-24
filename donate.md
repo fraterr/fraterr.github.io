@@ -3,13 +3,6 @@ layout: page
 title: Donate
 permalink: /donate/
 ---
-
-
----
-layout: default
-title: Donations
----
-
 <h1>Support My Work</h1>
 
 <p>If you find my work useful, you can support me with a donation.</p>
