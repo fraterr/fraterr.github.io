@@ -9,7 +9,7 @@ categories: [mind]
 </div>
 <br><br>
 
-Table of Contents
+<h2>Table of Contents</h2>
 
 * [Introduction](#introduction) 
 * [Eloquence is all about beauty](#eloquence-is-all-about-beauty)    
