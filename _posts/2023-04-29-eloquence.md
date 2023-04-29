@@ -15,6 +15,7 @@ For me, eloquence refers not to rhetorical skill or grand speechmaking but rathe
 Where rhetoric implies a performative and sometimes manipulative use of language to persuade, eloquence is concerned with honestly and insightfully sharing one's thinking. It requires finding words, rhythm, and metaphors that let another person access your mental experience rather than obscuring it behind empty phrases or sophistry. My quest was not to become a great orator but simply to communicate in conversations and everyday discussions in a manner that mirrored the depth and nuance I sought to achieve. 
 For me, true eloquence lies in speaking about complex ideas with a clarity and concision usually only found in the written word. It means overcoming the disconnect between thought and speech to let one flow seamlessly into the other.  
 
+
 <div style="text-align: center;">
   <img src="/images/retoricamantegna.jpg" alt="mantegna" style="width: 30%;" />
 </div>
@@ -50,6 +51,13 @@ A study by Montag et al. (2012) further highlights the role of reading aloud in 
 Select a text above your normal reading level. Choose a book, essay, or speech that contains sophisticated language and complex ideas, or whose language fascinates you. Reading at a higher level challenges your mind and exposes you to new vocabulary and modes of expression. Read slowly and deliberately. Focus on pronouncing each word clearly by shaping your mouth and jaw precisely. Pay attention to the cadence, rhythm and flow of the language. Also, pay attention to the meaning of what you are reading: your primary purpose is to understand what you read. Reading slowly allows you to appreciate nuances in tone, pace and accent that can influence the meaning and impact. Exaggerate your expression. Infuse emotion and drama into your reading. Raise and lower your tone, speed up and slow down for effect. Vary your volume and pitch. Put yourself into the narrative and bring the words to life with your voice. Exaggerated expression exercises your ability to articulate and enunciate powerfully. 
 Now stop and paraphrase. At key points in your reading, stop and restate passages in your own words. Explain what the author means in an impromptu minispeech. Paraphrasing as you go along helps strengthen your comprehension and your ability to communicate concepts verbally on the spot. 
 Record your reading and review. Recording yourself with audio or video is a great way to improve your reading and speech. You can replay your recording to identify any words you struggled with, evaluate your pacing and expression, and pinpoint areas of improvement. Reviewing and reflecting on your reading aloud makes you a more conscious and capable speaker. With regular practice, these techniques can significantly enhance your eloquence. Challenging yourself by manipulating tone, speed, rhythm, and expression as you read cultivates mental flexibility and verbal dexterity. Improvisationally rephrasing complex ideas in your own words builds comprehension and spontaneous speaking ability. And recording and reviewing your readings allows for precise monitoring of your progress and awareness of your strengths and weaknesses in speech. Using these methods, you can read aloud your way to greater eloquence.
+
+
+<div style="text-align: center;">
+  <img src="/images/pyramidbooks.jpg" alt="vocabulary" style="width: 80%;" />
+</div>
+<br><br>
+
 
 **Method 2: Dynamic vocabulary**
 
@@ -107,6 +115,13 @@ While this practice may seem time-consuming, even spending a few minutes per day
 
 Here is an impromptu speech using all the word pairs:
 The journey to knowledge and understanding is a continual ascent,  as one must **ascend** the mountain of wisdom slowly and **accumulate** insight through effort and experience over time. Though the ascent may be slow, our confidence and optimism **ascends** with each step, as our mind expands and opportunities accumulate before us. Yet we must be restrained in our enthusiasm, as too rapid an ascent could cause us to become unfettered from reason and judgment. Our progress must be nurtured with patience and care, not neglected through apathy or distraction. Illumination comes through steady nurturing of our minds and judgment, not from chasing after novel ideas in an unfettered fashion.  While imagination allows for an unfettered sense of possibility, without restraint and nurturing guidance it can lead to dissipation of our mental energies and obscuring of purpose and direction. Thus we must accumulate knowledge and understanding at a measured pace, so that we do not descend into confusion or obscurity of thought, with our mood descending into restlessness and purpose dissipating. Judicious restraint, nurturing wisdom over time through steady effort, allows mental energy to ascend and illuminate rather than dissipate and obscure. Progress up the mountain is slow but sure, as long as our judgment remains restrained and we neglect not the gradual nurturing of patience, care and understanding.  In this way, through balance and nurturing restraint, our eloquence and clarity of thought accumulate and ascend over time, rather than remaining obscured or descending into neglect and dissipation. The power is in the steady progress, as we ascend in understanding through restraint and nurturing of mind. Let not neglect, apathy or an unfettered hunger for novelty dissipate the energy required for the slow ascent to wisdom. Restraint, nurturing care, and patience shall illuminate the path.
+
+
+<div style="text-align: center;">
+  <img src="/images/correction.jpg" alt="correction" style="width: 80%;" />
+</div>
+<br><br>
+
 
 **Method 3: Expand your neural networks through correction**
 
