@@ -32,6 +32,11 @@ This schism between inner experience and outward expression was a source of cons
 This longing for eloquence spurred an active quest to overcome my inarticulateness. 
 Overall, my struggle with ineloquence stemmed from a desire to know myself through knowing and being known by others in a truer way. And so I began determined pursuit of eloquence as a lifelong art form and practice.
 
+<div style="text-align: center;">
+  <img src="/images/readaloud.jpg" alt="read aloud" style="width: 80%;" />
+</div>
+<br><br>
+
 **Method 1: Verbal Fluency and Reading Aloud**
 
 Verbal fluency refers to the ease and efficiency with which an individual can produce words and form sentences. Reading aloud can significantly improve one's verbal fluency by providing opportunities to practice pronunciation, intonation, and rhythm. As one reads, the brain actively processes the written text and translates it into speech, which strengthens neural pathways associated with verbal production.
