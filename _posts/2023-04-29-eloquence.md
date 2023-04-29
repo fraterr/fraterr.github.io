@@ -15,6 +15,12 @@ For me, eloquence refers not to rhetorical skill or grand speechmaking but rathe
 Where rhetoric implies a performative and sometimes manipulative use of language to persuade, eloquence is concerned with honestly and insightfully sharing one's thinking. It requires finding words, rhythm, and metaphors that let another person access your mental experience rather than obscuring it behind empty phrases or sophistry. My quest was not to become a great orator but simply to communicate in conversations and everyday discussions in a manner that mirrored the depth and nuance I sought to achieve. 
 For me, true eloquence lies in speaking about complex ideas with a clarity and concision usually only found in the written word. It means overcoming the disconnect between thought and speech to let one flow seamlessly into the other.  
 
+<div style="text-align: center;">
+  <img src="/images/retoricamantegna.jpg" alt="mantegna" style="width: 80%;" />
+</div>
+<br><br>
+
+
 **Eloquence is all about beauty:**
 
 I was captivated observing individuals who could discuss ideas with a striking mastery of language, selecting refined and sophisticated words, and for whom speech seemed to flow from the mouth with utter naturalness and beauty. For me, eloquence at its peak represents a kind of beauty. There was an alluring quality to those able to express themselves with such fluid grace as if translating directly from thought to perfect phrasing. Their diction and metaphorical language would frequently give me pause, inviting consideration of familiar concepts in a new light. In conversation with eloquent speakers, one has the sense of gaining access to a highly cultivated mind. The eloquent convey not just knowledge but a way of perceiving the world anew through the artistry and cadences of their language. Their verbal dexterity hints at the swiftness and intricacy of intellect operating behind the scenes.  Watching individuals who commanded such mastery of verbal expression ignited in me a nascent flame to nurture the same faculty in myself. Their eloquence seemed a kind of alchemy that could breathe life into thoughts and transport both speaker and listener. If ordinary speech was base metal, eloquence transmuted it into gold. It reflected the full range and depth of human thought while elevating a simple exchange into an art form. 
