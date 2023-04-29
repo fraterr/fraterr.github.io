@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Eloquence 101"
-date:   2023-04-29 14:05:19 +0100
 categories: [mind]
 ---
 
