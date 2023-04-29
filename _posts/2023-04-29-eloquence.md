@@ -4,6 +4,11 @@ title:  "Eloquence 101"
 categories: [mind]
 ---
 
+<div style="text-align: center;">
+  <img src="/images/oratori.jpg" alt="oratori" style="width: 50%;" />
+</div>
+<br><br>
+
 **Introduction:**
 
 For me, eloquence refers not to rhetorical skill or grand speechmaking but rather the ability to thoughtfully articulate my ideas and express them in a coherent, compelling manner. I struggled to find the right "clothing" for my thoughts that would enable others to perceive me as intelligent and my speech to do justice to the concepts and connections firing in my mind. Eloquence was about building a bridge between my inner world of reflection and its outer expression in a way that felt authentic. 
