@@ -150,7 +150,7 @@ With regular use of these techniques, eloquence evolves as a skill from active c
 
 <br>
 <div style="text-align: center;">
-  <img src="/images/imagestreaming.jpg" alt="imagestreaming" style="width: 80%;" />
+  <img src="/images/imagestreaming.jpg" alt="imagestreaming" style="width: 50%;" />
 </div>
 <br><br>
 
@@ -174,7 +174,7 @@ The process of describing mental images in detail helps individuals develop thei
 
 <br>
 <div style="text-align: center;">
-  <img src="/images/meditation.jpg" alt="meditation" style="width: 80%;" />
+  <img src="/images/meditation.jpg" alt="meditation" style="width: 50%;" />
 </div>
 <br><br>
 
