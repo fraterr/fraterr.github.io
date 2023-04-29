@@ -5,7 +5,7 @@ categories: [mind]
 ---
 
 <div style="text-align: center;">
-  <img src="/images/oratori.jpg" alt="oratori" style="width: 50%;" />
+  <img src="/images/oratori.jpg" alt="oratori" style="width: 80%;" />
 </div>
 <br><br>
 
