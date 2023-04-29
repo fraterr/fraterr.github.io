@@ -55,7 +55,7 @@ Record your reading and review. Recording yourself with audio or video is a grea
 
 <br>
 <div style="text-align: center;">
-  <img src="/images/pyramidbooks.jpg" alt="vocabulary" style="width: 50%;" />
+  <img src="/images/pyramidbooks.png" alt="vocabulary" style="width: 50%;" />
 </div>
 <br><br>
 
