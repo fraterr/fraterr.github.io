@@ -16,7 +16,7 @@ Where rhetoric implies a performative and sometimes manipulative use of language
 For me, true eloquence lies in speaking about complex ideas with a clarity and concision usually only found in the written word. It means overcoming the disconnect between thought and speech to let one flow seamlessly into the other.  
 
 <div style="text-align: center;">
-  <img src="/images/retoricamantegna.jpg" alt="mantegna" style="width: 80%;" />
+  <img src="/images/retoricamantegna.jpg" alt="mantegna" style="width: 30%;" />
 </div>
 <br><br>
 
