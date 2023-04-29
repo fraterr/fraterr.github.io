@@ -172,6 +172,13 @@ The process of describing mental images in detail helps individuals develop thei
 7. Practice regularly and release attachment to outcomes. Applying Image Streaming 3-4 times per week provides ongoing benefits. Releasing expectations of what "should" emerge or any need to make sense of the expressions allows maximum freedom and flow. Eloquence develops through regular improvisation without attachment or judgment.
 8. Optional: Record and replay your streams. Recording audio of your Image Streaming sessions provides another means of gaining perspective on what surfaces from your unfiltered mind. Hearing the flow again can reveal additional insights you missed, and allow you to track increasing coherence over time. But recording is not required and streams can remain private. With regular use, Image Streaming builds communication between visual and verbal parts of your mind, strengthens comfort with impromptu speech, provides newfound access to spontaneous insights, enhances problem-solving skills, and cultivates verbal flow states where eloquence emerges. Releasing control and expressing freely what arises forges new neural connections that fuel creativity, imagination and persuasive self-expression over the long run.
 
+<br>
+<div style="text-align: center;">
+  <img src="/images/meditation.jpg" alt="meditation" style="width: 80%;" />
+</div>
+<br><br>
+
+
 **Method 6: Consolidate with Meditation**
 
 After completing any eloquence practice session, engage in at least 15 minutes of Vipassana meditation. This simple technique provides a window of heightened neuroplasticity where the brain can more firmly absorb the verbal and cognitive skills you just exercised. Consistently meditating following other methods for cultivating eloquence yields progress over time. 
