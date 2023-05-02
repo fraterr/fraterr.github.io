@@ -5,6 +5,3 @@
 layout: home
 ---
 <meta name="google-site-verification" content="90rzPycYVnV4nbYt-ybXTmdy0onRMiE8tmb3I8dcUlQ" />
-<header>
-   <a href="/"><img src="images/fraterr_logo.jpg" alt="Logo" /></a> 
-</header> 
