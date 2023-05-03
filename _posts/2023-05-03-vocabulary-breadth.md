@@ -46,11 +46,11 @@ The temporal and parietal lobes are also involved in verbal fluency tasks, parti
 
 Several qualities and abilities are important for developing strong verbal fluency:
 
-1. Vocabulary breadth: Having a large vocabulary provides more options to access during word generation, supporting fluent production. Building vocabulary through reading and learning word lists can enhance verbal fluency.
-2. Semantic knowledge: Rich semantic representations about words, concepts, and categories give a person more material to draw from. Learning about word meanings, attributes, categories, and associations between words helps strengthen semantic fluency.
-3. Lexical retrieval: Being able to rapidly and efficiently access phonological and orthographic information about words in the mental lexicon aids phonemic fluency. Practice with word-finding tasks, rhyming, or listing words from initial letters improves retrieval.
-4. Cognitive flexibility: The ability to fluently switch between different subcategories, semantic associations, and search strategies allows for broader exploration of the target category or letter. Exercises that require shifting perspectives or generating words in different ways can boost flexibility.
-5. Inhibition: Success in phonemic and semantic fluency tasks also depends on inhibiting repetitions. The person must have strong inhibitory control to avoid re-stating words that were already produced. Tasks that require stopping habitual responses can help improve inhibition. 
+1. <b>Vocabulary breadth:</b> Having a large vocabulary provides more options to access during word generation, supporting fluent production. Building vocabulary through reading and learning word lists can enhance verbal fluency.
+2. <b>Semantic knowledge:</b> Rich semantic representations about words, concepts, and categories give a person more material to draw from. Learning about word meanings, attributes, categories, and associations between words helps strengthen semantic fluency.
+3. <b>Lexical retrieval:</b> Being able to rapidly and efficiently access phonological and orthographic information about words in the mental lexicon aids phonemic fluency. Practice with word-finding tasks, rhyming, or listing words from initial letters improves retrieval.
+4. <b>Cognitive flexibility:</b> The ability to fluently switch between different subcategories, semantic associations, and search strategies allows for broader exploration of the target category or letter. Exercises that require shifting perspectives or generating words in different ways can boost flexibility.
+5. <b>Inhibition:</b> Success in phonemic and semantic fluency tasks also depends on inhibiting repetitions. The person must have strong inhibitory control to avoid re-stating words that were already produced. Tasks that require stopping habitual responses can help improve inhibition. 
 
 
 <h2 id="vocabulary-breadth">Vocabulary breadth</h2> 
