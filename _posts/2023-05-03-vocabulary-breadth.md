@@ -61,7 +61,7 @@ While a broad, deep vocabulary is not sufficient on its own for strong verbal fl
 
 <br>
 <div style="text-align: center;">
-  <img src="/images/flashcards.png" alt="verbal fluency" style="width: 70%;" />
+  <img src="/images/flashcards.jpg" alt="verbal fluency" style="width: 70%;" />
 </div>
 <br><br>
 
@@ -74,7 +74,7 @@ In addition, flashcards provide retrieval cues in the form of the information on
 
 <br>
 <div style="text-align: center;">
-  <img src="/images/anki.png" alt="verbal fluency" style="width: 70%;" />
+  <img src="/images/anki.png" alt="verbal fluency" style="width: 40%;" />
 </div>
 <br><br>
 
@@ -95,7 +95,7 @@ To get started, first visit the official Anki website at  https://apps.ankiweb.n
 
 <br>
 <div style="text-align: center;">
-  <img src="/images/claude.jpg" alt="verbal fluency" style="width: 50%;" />
+  <img src="/images/claude.jpg" alt="verbal fluency" style="width: 70%;" />
 </div>
 <br><br>
 
