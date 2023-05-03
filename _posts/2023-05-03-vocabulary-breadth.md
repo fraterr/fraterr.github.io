@@ -74,7 +74,7 @@ In addition, flashcards provide retrieval cues in the form of the information on
 
 <br>
 <div style="text-align: center;">
-  <img src="/images/anki.png" alt="verbal fluency" style="width: 40%;" />
+  <img src="/images/anki.png" alt="verbal fluency" style="width: 20%;" />
 </div>
 <br><br>
 
