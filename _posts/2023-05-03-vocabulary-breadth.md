@@ -4,6 +4,13 @@ title:  "Wordsmithing: tools to enhance verbal fluency"
 categories: [mind]
 description: "Strategic practice with Anki flashcards and AI helps cultivate an eloquent vocabulary. Using active recall, metrics  and optimized repetition, build  verbal fluency through lifelong discipline. Technology eases learning but mastery comes through perseverance: word by word, excellence is earned."
 ---
+
+<br>
+<div style="text-align: center;">
+  <img src="/images/wordsmith.png" alt="verbal fluency" style="width: 80%;" />
+</div>
+<br><br>
+
 <h2>Table of Contents</h2>
 
 •[The fluent brain](#the-fluent-brain)   
