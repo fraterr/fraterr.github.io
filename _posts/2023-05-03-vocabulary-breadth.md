@@ -89,7 +89,7 @@ To get started, first visit the official Anki website at  https://apps.ankiweb.n
 
 <br>
 <div style="text-align: center;">
-  <img src="/images/claude.png" alt="verbal fluency" style="width: 50%;" />
+  <img src="/images/claude.jpg" alt="verbal fluency" style="width: 50%;" />
 </div>
 <br><br>
 
