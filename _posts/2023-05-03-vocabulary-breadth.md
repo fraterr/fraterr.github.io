@@ -108,36 +108,66 @@ Write me, in the following CSV format, first the word you selected, then the sem
 When you write me the list of words check that you have not suggested them before. They must always be new."</i>
 
 Now, Claude+ will send you a message like this:
-Word;Synonym 1,Synonym 2,Synonym 3,Synonym 4,Synonym 5
+
+
 Zealous;Eager,Passionate,fervent,Fanatical,Enthusiastic  
+
 Voracious;Ravenous,Famished, Starving, Gluttonous, Insatiable
+
 Indolent;Idle, lazy, slothful, inactive, inert
+
 Pragmatic; practical, realistic, useful, matter-of-fact, sensible 
+
 Superfluous; unnecessary, excess, redundant, overabundant,lavish 
+
 Acrimonious; resentful, angry, hostile, antagonistic, caustic
+
 Enigma; mystery, riddle, puzzle, paradox, conundrum
+
 Gregarious;sociable, extroverted, convivial, affable, companionable 
+
 Vex; annoy, provoke, frustrate, irritate, aggravate 
+
 Maladroit; clumsy, awkward, inept, unskillful, bungling
+
 Wistful;yearning, longing, pining, melancholy, regretful 
+
 Conundrum; puzzle, enigma, riddle, paradox, problem 
+
 Aplomb; poise, self-confidence, presence of mind, composure, levelheadedness 
+
 Zeitgeist;spirit of the age or time, mood of a culture or era, prevailing culture or attitudes  
+
 Malapropism; verbal blunder, slip of the tongue, error, faux pas, gaffe 
+
 Panacea; solution to all problems, cure-all, remedy for any difficulty
+
 Eschew; avoid, abstain from, give up, renounce, forgo 
+
 Verdant; green, lush, flourishing, fertile, emergent 
+
 Excoriate;criticize bitterly, berate, censure, reprimand, rebuke harshly
+
 Obsequious; fawning, groveling, subservient, ingratiating, sycophantic   
+
 Tergiversation desertion, abandonment of cause, apostasy, backsliding, change of loyalty 
+
 Pulchritudinous; beautiful, attractive, lovely, pretty, fair
+
 Martinet;strict disciplinarian, rigid enforcer of rules, authoritarian, despot, tyrant 
+
 Philanderer;flirt, Don Juan, Casanova, seducer, playboy, ladies' man
+
 Nefarious;wicked, evil, corrupt, sinister, villainous  
+
 Emollient;soothing, calming, mollifying  , reassuring, comforting  
+
 Contumacious; stubbornly disobedient, rebellious, defiant, ungovernable, intractable 
+
 Risible; laughable, amusing, funny, comical, hilarious
+
 Malingerer; shirker, deceiver, pretender, feigner, slacker
+
 
 You just copy the list in notepad and save the file as .csv
 
