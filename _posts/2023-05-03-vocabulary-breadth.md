@@ -7,7 +7,7 @@ description: "Strategic practice with Anki flashcards and AI helps cultivate an 
 
 <br>
 <div style="text-align: center;">
-  <img src="/images/wordsmith.png" alt="verbal fluency" style="width: 80%;" />
+  <img src="/images/wordsmith.png" alt="verbal fluency" style="width: 50%;" />
 </div>
 <br><br>
 
