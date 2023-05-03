@@ -220,4 +220,4 @@ While this concludes my exploration thus far into methods for cultivating eloque
 
 <br>
 <h3>Check my other articles in the Eloquence series:</h>   
-<a href="https://fraterr.github.io/mind/2023/05/03/vocabulary-breadth.html">Wordsmithing: tools to enhance verbal fluency</a>
+- <a href="https://fraterr.github.io/mind/2023/05/03/vocabulary-breadth.html">Wordsmithing: tools to enhance verbal fluency</a>

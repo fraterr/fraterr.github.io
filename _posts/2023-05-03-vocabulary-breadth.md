@@ -186,4 +186,4 @@ While a lifetime of reading and passive exposure to words provides a foundation,
 
 <br>
 <h3>Check my other articles in the Eloquence series:</h>
-<a href="https://fraterr.github.io/mind/2023/04/29/eloquence.html">Eloquence 101</a>
+- <a href="https://fraterr.github.io/mind/2023/04/29/eloquence.html">Eloquence 101</a>
