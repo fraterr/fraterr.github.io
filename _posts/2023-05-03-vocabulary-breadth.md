@@ -31,6 +31,12 @@ The ability to perform verbal fluency tasks depends on the coordinated activity 
 
 The prefrontal cortex, particularly the left dorsolateral prefrontal cortex (DLPFC), is thought to play a crucial role in the initiation and organization of verbal fluency tasks. The DLPFC is involved in generating and maintaining goal-directed behavior and is critical for the initiation and execution of complex cognitive tasks. It has been shown to be activated during phonemic fluency tasks, where participants are asked to generate as many words as possible that begin with a specific letter or sound. Lesions to the DLPFC have been shown to impair verbal fluency performance, highlighting the importance of this region in the cognitive processes underlying verbal fluency.
 
+<br>
+<div style="text-align: center;">
+  <img src="/images/fluent_brain.png" alt="verbal fluency" style="width: 50%;" />
+</div>
+<br><br>
+
 The anterior cingulate cortex (ACC) is also involved in verbal fluency tasks. The ACC is thought to play a role in monitoring and processing information related to task performance, as well as in regulating attention and cognitive control. It has been shown to be activated during both phonemic and semantic fluency tasks, and its activation has been associated with successful performance on these tasks. The ACC is also thought to be involved in the processing of emotional information, and it has been suggested that its activation during verbal fluency tasks may reflect the emotional aspects of task performance.
 
 The temporal and parietal lobes are also involved in verbal fluency tasks, particularly in semantic fluency tasks. The temporal lobes are involved in the retrieval and processing of semantic information, while the parietal lobes are involved in the manipulation and integration of this information. Lesions to the temporal and parietal lobes have been shown to impair semantic fluency performance, highlighting the importance of these regions in the cognitive processes underlying semantic fluency.
