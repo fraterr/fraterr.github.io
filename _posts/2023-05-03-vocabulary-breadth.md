@@ -79,7 +79,7 @@ In addition, flashcards provide retrieval cues in the form of the information on
 <br><br>
 
 
-<h2 id="enter-anki">Enter Anki</h2>
+<h2 id="enter-anki"><a href="https://apps.ankiweb.net/">Enter Anki</a></h2>
 
 In our previous section, we explored how physical flashcards leverage cognitive principles of learning to facilitate vocabulary growth by optimizing frequency of exposure, spacing, retrieval practice, and cueing. However, traditional flashcards also require an ongoing time commitment to manually manage presentation intervals and track progress. 
 Fortunately, digital flashcard solutions have automated many of these time-intensive processes while retaining the psychological benefits of the technique. Anki, an open-source digital flashcard app, provides a powerful yet pragmatic tool for actively building vocabulary and fluency through flashcards optimized for the demands of human memory.
