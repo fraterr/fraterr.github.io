@@ -110,9 +110,9 @@ When you write me the list of words check that you have not suggested them befor
 Now, Claude+ will send you a message like this:
 
 
-Zealous;Eager,Passionate,fervent,Fanatical,Enthusiastic
-Voracious;Ravenous,Famished, Starving, Gluttonous, Insatiable
-Indolent;Idle, lazy, slothful, inactive, inert
+Zealous;Eager,Passionate,fervent,Fanatical,Enthusiastic   
+Voracious;Ravenous,Famished, Starving, Gluttonous, Insatiable   
+Indolent;Idle, lazy, slothful, inactive, inert   
 Pragmatic; practical, realistic, useful, matter-of-fact, sensible
 Superfluous; unnecessary, excess, redundant, overabundant,lavish
 Acrimonious; resentful, angry, hostile, antagonistic, caustic
