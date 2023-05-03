@@ -19,7 +19,7 @@ description: "Strategic practice with Anki flashcards and AI helps cultivate an 
 •[Flashcards](#flashcards)   
 •[Enter Anki](#enter-anki)
 •[AGI and Anki](#agi-and-anki)
-•[Prompts](#prompts)       
+•[Prompts](#prompts)
 •[Consistency is the key](#consistency-is-the-key)     
 •[Last but not least: Self-evaluation](#last-but-not-least-self-evaluation)
 •[Conclusion](#conclusion)
