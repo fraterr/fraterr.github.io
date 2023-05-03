@@ -5,7 +5,7 @@ categories: [mind]
 description: "Strategic practice with Anki flashcards and AI helps cultivate an eloquent vocabulary. Using active recall, metrics  and optimized repetition, build  verbal fluency through lifelong discipline. Technology eases learning but mastery comes through perseverance: word by word, excellence is earned."
 ---
 
-##The fluent brain 
+<h2>The fluent brain</h2> 
 
 Verbal fluency refers to the ability to generate spoken or written words fluently within certain constraints. It is a type of spontaneous language production that provides a window into other cognitive abilities like semantic memory, lexical retrieval, and executive function.
 The ability to perform verbal fluency tasks depends on the coordinated activity of several brain regions, including the prefrontal cortex, anterior cingulate cortex, and temporal and parietal lobes.
@@ -17,7 +17,7 @@ The anterior cingulate cortex (ACC) is also involved in verbal fluency tasks. Th
 The temporal and parietal lobes are also involved in verbal fluency tasks, particularly in semantic fluency tasks. The temporal lobes are involved in the retrieval and processing of semantic information, while the parietal lobes are involved in the manipulation and integration of this information. Lesions to the temporal and parietal lobes have been shown to impair semantic fluency performance, highlighting the importance of these regions in the cognitive processes underlying semantic fluency.
 
 
-##Hallmarks of fluency 
+<h2>Hallmarks of fluency</h2>
 
 Several qualities and abilities are important for developing strong verbal fluency:
 
@@ -28,20 +28,20 @@ Several qualities and abilities are important for developing strong verbal fluen
 • Inhibition: Success in phonemic and semantic fluency tasks also depends on inhibiting repetitions. The person must have strong inhibitory control to avoid re-stating words that were already produced. Tasks that require stopping habitual responses can help improve inhibition. 
 
 
-##Vocabulary breadth 
+<h2>Vocabulary breadth</h2> 
 
 In this article, we will focus primarily on expanding one's vocabulary breadth to enhance verbal fluency.
 Vocabulary breadth refers to the size and diversity of a person's vocabulary. Having a large store of word knowledge provides more semantic and lexical options to access during language tasks, supporting more varied and fluent word production. Expanding vocabulary breadth involves learning new words and their meanings, synonyms, shades of meaning, and proper usage over time through reading, study, and practice.
 While a broad, deep vocabulary is not sufficient on its own for strong verbal fluency, it provides the essential raw material that makes fluent expression possible. With a vast mental lexicon to draw from, one has a wealth of words and meanings at the ready to deploy when communicating. However, vocabulary growth must be balanced with strategies to facilitate access and monitoring of one's knowledge. The ability to flexibly retrieve and apply words and link them to semantic concepts also depends on cognitive and metacognitive skills that can be strengthened through practice.
 
-##Flashcards
+<h2>Flashcards</h2>
 
 Flashcards are a simple yet effective technique for learning and retaining new words, synonyms, and antonyms to expand one's vocabulary breadth. Flashcards typically involve physical or digital cards that contain a new word, its pronunciation, part of speech, and definition on one side, with the synonym, antonym or related word on the other side. They work by exposing the learner to the new word or concept repeatedly through an active process of retrieval and review.
 The efficacy of flashcards for vocabulary building stems from two key principles of learning: frequency and spaced repetition. Showing the learner a new word or concept multiple times in spaced intervals, rather than massed together, significantly improves the likelihood it will be retained in memory. Flashcards readily facilitate this type of repetitive exposure and spacing. The learner reviews a subset of flashcards in each session, with the interval between reviews of individual cards gradually increasing as the knowledge becomes more familiar.
 Flashcards also tap into the testing effect. Having to actively retrieve information, as opposed to just re-reading it, strengthens the memory and connections formed between the new word and its attributes or meanings. Flashcards prompt the learner to recall the term, definition, usage examples or related words on the opposite side, reinforcing these links in memory through retrieval practice each time the card is viewed.
 In addition, flashcards provide retrieval cues in the form of the information on one side of the card that help the learner recall the target word or concept on the other side. These retrieval cues aid the recall process, particularly early in learning. Over multiple repetitions, the learner comes to associate the cue with the target, forging connections that ultimately allow one side of the card to instantly bring the other side to mind.  
 
-##Enter Anki
+<h2>Enter Anki</h2>
 
 In our previous section, we explored how physical flashcards leverage cognitive principles of learning to facilitate vocabulary growth by optimizing frequency of exposure, spacing, retrieval practice, and cueing. However, traditional flashcards also require an ongoing time commitment to manually manage presentation intervals and track progress. 
 Fortunately, digital flashcard solutions have automated many of these time-intensive processes while retaining the psychological benefits of the technique. Anki, an open-source digital flashcard app, provides a powerful yet pragmatic tool for actively building vocabulary and fluency through flashcards optimized for the demands of human memory.
@@ -49,13 +49,13 @@ Anki employs artificial intelligence to determine optimal spacing between indivi
 Anki also generates detailed statistics on card performance to provide feedback on learning progress. Learners can see the specific cards that are most and least recalled to adjust study accordingly. Performance matrices over time demonstrate the durability of memory for new words, ensuring that active recall—and fluent access—is truly achieved before moving on. Such data enables the strategic fine-tuning of study for maximal gains.
 With customizable decks, multimedia support, progress graphs and the option of synchronizing progress across devices, Anki supplies a robust yet versatile platform for flashcard learning. The specialized spacing models and analytical feedback place an empirically-grounded technique for building fluency into overdrive. Anki transforms a pragmatic and time-honored method into a high-performance vehicle for mastery. 
 
-##AGI and Anki 
+<h2>AGI and Anki</h2> 
 
 Artificial general intelligence (AGI) can assist us in efficiently generating and importing flashcards into Anki to expand our vocabulary breadth. I will demonstrate using Claude+ here, though other AGI systems like ChatGPT could also be employed for this purpose.
 Anki allows for importing lists of flashcards from comma-separated values (CSV) files. As a first step, we will use Claude+ to automatically generate synonym and antonym lists in CSV format. We will then import these lists directly into Anki to create digital flashcards for learning.
 To get started, first visit the official Anki website at  https://apps.ankiweb.net/  and download the free flashcard app. Install Anki on your desktop or mobile device. The interface is simple but highly customizable to suit your needs.
 
-##Prompts
+<h2>Prompts</h2>
 
 The following is the prompt I use for generating CSV lists of words and synonims:
 "Write a list of 30 English words. Based on those, I want you to prepare for me a set of flashcards for ANKI. 
@@ -112,14 +112,14 @@ This technique leverages both active recall of the synonyms associated with each
 While this approach increases the time spent on each flashcard, it employs empirically-validated methods for learning and long-term retention. The investment of effort at the stage of first exposure and initial testing pays dividends through more fluent, durable recall of each word's web of synonyms in the future. The sentences created also become examples we can draw from when using each word and its synonyms in speech or writing, giving context that anchors them in our memory.  
 
 
-##Consistency is the key 
+<h2>Consistency is the key</h2> 
 
 To gain the benefits of an expanded vocabulary and enhanced verbal fluency, consistent practice with Anki flashcards is essential. Optimally, spend at least 30 minutes each day reviewing flashcards and engaging in the active recall, feedback, and sentence generation techniques described previously. Developing a regular study schedule and sticking to it helps to cement productive habits that will propel progress over the long-term.
 During each 30-minute review session, aim to complete flashcards for 10 to 20 new words or concepts as well as practice recalling known words. The specific number covered will vary based on the complexity of each word or concept, your learning goals, and time constraints. However, keeping practice frequent and distributed over days and weeks is more valuable for retention than lengthy but sporadic bursts of study.
 30 minutes a day may seem a modest amount, but amounts to over 3 hours per week and 150 hours over a year. While the time commitment remains light, the compounded gains in knowledge and fluency over weeks and months of regular practice are profound. Vocabulary building is a continuous process where small increments cultivated daily yield substantial results.
 
 
-##Last but not least: Self-evaluation
+<h2>Last but not least: Self-evaluation</h2>
 
 Self-assessment through consistent testing is critical to gaining insight into your progress, identifying weaknesses, and ensuring continual improvement and growth. Simply practicing a skill or acquiring knowledge is insufficient without concrete measures of advancement and mechanisms for accountability. Tests provide objective benchmarks to anchor subjective perceptions of your abilities and development.
 Placing your abilities and knowledge under regular scrutiny highlights both areas of mastery as well as those still in need of refinement. Scores and recordings over time offer reference points to chart the efficacy of your learning and practice strategies. You gain data-driven guidance for optimizing effort and overcoming obstacles or plateaus.
