@@ -87,6 +87,12 @@ Artificial general intelligence (AGI) can assist us in efficiently generating an
 Anki allows for importing lists of flashcards from comma-separated values (CSV) files. As a first step, we will use Claude+ to automatically generate synonym and antonym lists in CSV format. We will then import these lists directly into Anki to create digital flashcards for learning.
 To get started, first visit the official Anki website at  https://apps.ankiweb.net/  and download the free flashcard app. Install Anki on your desktop or mobile device. The interface is simple but highly customizable to suit your needs.
 
+<br>
+<div style="text-align: center;">
+  <img src="/images/claude.png" alt="verbal fluency" style="width: 50%;" />
+</div>
+<br><br>
+
 <h2 id="prompts">Prompts</h2>
 
 The following is the prompt I use for generating CSV lists of words and synonims:
