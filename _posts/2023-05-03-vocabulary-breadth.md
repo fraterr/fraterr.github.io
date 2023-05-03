@@ -103,7 +103,7 @@ To get started, first visit the official Anki website at  https://apps.ankiweb.n
 
 The following is the prompt I use for generating CSV lists of words and synonims:
 <br>
-<i>"Write a list of 30 English words. Based on those, I want you to prepare for me a set of flashcards for ANKI. 
+<br><i>"Write a list of 30 English words. Based on those, I want you to prepare for me a set of flashcards for ANKI. 
 Write me, in the following CSV format, first the word you selected, then the semicolon (;) and then a series of 5 synonyms separated by the comma (,).
 When you write me the list of words check that you have not suggested them before. They must always be new."</i>
 
