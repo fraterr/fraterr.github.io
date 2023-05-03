@@ -185,5 +185,5 @@ In closing, we have explored a multifaceted approach employing scientifically-va
 While a lifetime of reading and passive exposure to words provides a foundation, fluent access and dexterous application of knowledge depend on practice. Anki supplies the mechanism for practice, but the learner provides the effort and strategic methods essential to progress. Consistency, accountability, data-driven refinement, and persistent iteration are the engines that propel mastery. 
 
 <br>
-Check my other articles in the Eloquence series:   
+<h3>Check my other articles in the Eloquence series:</h>
 <a href="https://fraterr.github.io/mind/2023/04/29/eloquence.html">Eloquence 101</a>
