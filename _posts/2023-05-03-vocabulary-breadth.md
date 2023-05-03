@@ -17,12 +17,12 @@ description: "Strategic practice with Anki flashcards and AI helps cultivate an 
 •[Hallmarks of fluency](#hallmarks-of-fluency)    
 •[Vocabulary breadth](#vocabulary-breadth)          
 •[Flashcards](#flashcards)   
-•[Enter Anki](#enter-anki)
-•[AGI and Anki](#agi-and-anki)
-•[Prompts](#prompts)
-•[Consistency is the key](#consistency-is-the-key)     
-•[Last but not least: Self-evaluation](#last-but-not-least-self-evaluation)
-•[Conclusion](#conclusion)
+•[Enter Anki](#enter-anki)   
+•[AGI and Anki](#agi-and-anki)   
+•[Prompts](#prompts)   
+•[Consistency is the key](#consistency-is-the-key)        
+•[Last but not least: Self-evaluation](#last-but-not-least-self-evaluation)   
+•[Conclusion](#conclusion)   
 
 <h2 id="the-fluent-brain">The fluent brain</h2> 
 
