@@ -59,6 +59,12 @@ In this article, we will focus primarily on expanding one's vocabulary breadth t
 Vocabulary breadth refers to the size and diversity of a person's vocabulary. Having a large store of word knowledge provides more semantic and lexical options to access during language tasks, supporting more varied and fluent word production. Expanding vocabulary breadth involves learning new words and their meanings, synonyms, shades of meaning, and proper usage over time through reading, study, and practice.
 While a broad, deep vocabulary is not sufficient on its own for strong verbal fluency, it provides the essential raw material that makes fluent expression possible. With a vast mental lexicon to draw from, one has a wealth of words and meanings at the ready to deploy when communicating. However, vocabulary growth must be balanced with strategies to facilitate access and monitoring of one's knowledge. The ability to flexibly retrieve and apply words and link them to semantic concepts also depends on cognitive and metacognitive skills that can be strengthened through practice.
 
+<br>
+<div style="text-align: center;">
+  <img src="/images/flashcards.png" alt="verbal fluency" style="width: 70%;" />
+</div>
+<br><br>
+
 <h2 id="flashcards">Flashcards</h2>
 
 Flashcards are a simple yet effective technique for learning and retaining new words, synonyms, and antonyms to expand one's vocabulary breadth. Flashcards typically involve physical or digital cards that contain a new word, its pronunciation, part of speech, and definition on one side, with the synonym, antonym or related word on the other side. They work by exposing the learner to the new word or concept repeatedly through an active process of retrieval and review.
@@ -68,7 +74,7 @@ In addition, flashcards provide retrieval cues in the form of the information on
 
 <br>
 <div style="text-align: center;">
-  <img src="/images/anki.png" alt="verbal fluency" style="width: 40%;" />
+  <img src="/images/anki.png" alt="verbal fluency" style="width: 70%;" />
 </div>
 <br><br>
 
