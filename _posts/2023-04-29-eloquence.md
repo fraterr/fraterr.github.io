@@ -219,4 +219,5 @@ To practice Vipassana meditation:
 While this concludes my exploration thus far into methods for cultivating eloquence and flow-based thinking, the journey continues. I am currently experimenting with certain supplements and neurotechnologies aimed at enhancing neural connectivity and access to flow states, though results remain inconclusive. I will report on the outcomes of these experiments if and when their effects prove definitive. For now, the techniques discussed in this work have provided me profound benefits when applied with patience and consistency over time. My hope is that readers explore these practices for themselves, tweak them to best suit their needs and temperament, and report back with insights from their experiences. Our collective wisdom informs progress. If any readers have knowledge of or experience with other methods for unlocking eloquence, fluent thinking or flow-based performance, please reach out to me. Creating pathways between practitioners serves the evolution of our abilities. Though this text offers but an introductory foray into expanding mind and voice, our shared interests form the seeds of discourse where new learning will emerge.
 
 
-
+Check my other articles in the Eloquence series:   
+<a href="https://fraterr.github.io/mind/2023/05/03/vocabulary-breadth.html">Wordsmithing: tools to enhance verbal fluency</a>
