@@ -66,6 +66,13 @@ The efficacy of flashcards for vocabulary building stems from two key principles
 Flashcards also tap into the testing effect. Having to actively retrieve information, as opposed to just re-reading it, strengthens the memory and connections formed between the new word and its attributes or meanings. Flashcards prompt the learner to recall the term, definition, usage examples or related words on the opposite side, reinforcing these links in memory through retrieval practice each time the card is viewed.
 In addition, flashcards provide retrieval cues in the form of the information on one side of the card that help the learner recall the target word or concept on the other side. These retrieval cues aid the recall process, particularly early in learning. Over multiple repetitions, the learner comes to associate the cue with the target, forging connections that ultimately allow one side of the card to instantly bring the other side to mind.  
 
+<br>
+<div style="text-align: center;">
+  <img src="/images/anki.png" alt="verbal fluency" style="width: 50%;" />
+</div>
+<br><br>
+
+
 <h2 id="enter-anki">Enter Anki</h2>
 
 In our previous section, we explored how physical flashcards leverage cognitive principles of learning to facilitate vocabulary growth by optimizing frequency of exposure, spacing, retrieval practice, and cueing. However, traditional flashcards also require an ongoing time commitment to manually manage presentation intervals and track progress. 
