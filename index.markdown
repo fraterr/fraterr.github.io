@@ -5,3 +5,4 @@
 layout: home
 ---
 <meta name="google-site-verification" content="90rzPycYVnV4nbYt-ybXTmdy0onRMiE8tmb3I8dcUlQ" />
+css .site-title::before { content: url("/images/logo.png"); display: inline-block; position: relative; width: 35px; top: 5px; } 
