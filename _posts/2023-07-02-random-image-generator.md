@@ -8,74 +8,84 @@ description: "A random image generator to be used along with Quantum Wave Stream
 
 
 
-<!DOCTYPE html>
+
+
 <html lang="it">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Generatore di immagini casuali</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f0f0f0;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      min-height: 100vh;
-      margin: 0;
-    }
-    .button {
-      display: inline-block;
-      padding: 10px 20px;
-      font-size: 18px;
-      cursor: pointer;
-      text-align: center;
-      text-decoration: none;
-      outline: none;
-      color: #fff;
-      background-color: #007BFF;
-      border: none;
-      border-radius: 15px;
-      box-shadow: 0 5px #0069D9;
-    }
-    .button:hover {background-color: #0069D9}
-    .button:active {
-      background-color: #005CB2;
-      box-shadow: 0 2px #005CB2;
-      transform: translateY(4px);
-    }
-    #image-box {
-      width: 80%;
-      max-width: 600px;
-      height: 0;
-      padding-bottom: 80%;
-      background-color: #e0e0e0;
-      background-position: center;
-      background-repeat: no-repeat;
-      background-size: cover;
-      border: 5px solid #007BFF;
-      border-radius: 10px;
-      margin-top: 20px;
-      transition: background-image 0.5s ease-out;
-    }
-  </style>
-</head>
-<body>
-  <button id="generate-button" class="button">Generate Image</button>
-  <div id="image-box"></div>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generatore di immagini casuali</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            margin: 0;
+        }
 
-  <script>
-    document.getElementById('generate-button').addEventListener('click', () => {
-      const imageBox = document.getElementById('image-box');
-      fetch('https://source.unsplash.com/random')
-        .then(response => {
-          imageBox.style.backgroundImage = `url(${response.url})`;
-        })
-        .catch(error => {
-          console.log('Error fetching the image:', error);
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 18px;
+            cursor: pointer;
+            text-align: center;
+            text-decoration: none;
+            outline: none;
+            color: #fff;
+            background-color: #007BFF;
+            border: none;
+            border-radius: 15px;
+            box-shadow: 0 5px #0069D9;
+            margin-bottom: 20px;
+        }
+
+        .button:hover {
+            background-color: #0069D9
+        }
+
+        .button:active {
+            background-color: #005CB2;
+            box-shadow: 0 2px #005CB2;
+            transform: translateY(4px);
+        }
+
+        #image-box {
+            width: 80%;
+            max-width: 1000px;
+            height: 0px;
+            padding-bottom: 100%;
+            background-color: #e0e0e0;
+            background-position: auto;
+            background-repeat: no-repeat;
+            background-size: cover;
+            border: 5px solid #007BFF;
+            border-radius: 10px;
+            margin-top: 20px;
+            transition: background-image 0.5s ease-out;
+        }
+    </style>
+</head>
+
+<body>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <button id="generate-button" class="button">Generate Image</button>
+        <div id="image-box"></div>
+    </div>
+    <script>
+        document.getElementById('generate-button').addEventListener('click', () => {
+            const imageBox = document.getElementById('image-box');
+            fetch('https://source.unsplash.com/random')
+                .then(response => {
+                    imageBox.style.backgroundImage = `url(${response.url})`;
+                })
+                .catch(error => {
+                    console.log('Error fetching the image:', error);
+                });
         });
-    });
-  </script>
+    </script>
 </body>
 </html>
