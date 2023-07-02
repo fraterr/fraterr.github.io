@@ -53,10 +53,10 @@ This is an image generator that produces random, ever-changing images. The conti
         }
 
         #image-box {
-            width: 300%;
+            width: 200%;
             max-width: 1000px;
             height: 0px;
-            padding-bottom: 300%;
+            padding-bottom: 200%;
             background-color: #e0e0e0;
             background-position: auto;
             background-repeat: no-repeat;
