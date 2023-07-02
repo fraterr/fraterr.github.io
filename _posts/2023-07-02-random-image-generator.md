@@ -5,6 +5,9 @@ categories: [tool]
 description: "A random image generator to be used along with Quantum Wave Streaming and the likes"
 ---
 
+This is an image generator that produces random, ever-changing images. The continuously refreshing images are intended for use with techniques like Quantum Wave Streaming that require a constantly shifting visual stimulus.
+
+**How it works:** Every time you press the 'Generate Image' button, a new random photo is fetched from Unsplash.com. The background of the target box changes to display this fresh image. By continuously pressing the button, a flow of different pictures is produced.
 
 <html lang="it">
 <head>
