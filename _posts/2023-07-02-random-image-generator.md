@@ -6,10 +6,6 @@ description: "A random image generator to be used along with Quantum Wave Stream
 ---
 
 
-
-
-
-
 <html lang="it">
 <head>
     <meta charset="UTF-8">
@@ -54,10 +50,10 @@ description: "A random image generator to be used along with Quantum Wave Stream
         }
 
         #image-box {
-            width: 80%;
+            width: 300%;
             max-width: 1000px;
             height: 0px;
-            padding-bottom: 100%;
+            padding-bottom: 300%;
             background-color: #e0e0e0;
             background-position: auto;
             background-repeat: no-repeat;
