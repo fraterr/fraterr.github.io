@@ -3,7 +3,6 @@ layout: post
 title:  "Hypothesis - The Magician as an exemplification of the process of creative visualization"
 date:   2024-03-07 03:30:19 +0100
 categories: [tarot]
-
 ---
 
 The basis of the Magician's operations is Tiphareth [yellow color in background], and Tiphareth is the root of the power of imagination. 
