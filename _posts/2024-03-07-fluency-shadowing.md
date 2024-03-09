@@ -4,7 +4,10 @@ title:  "Enhancing Verbal Fluency and Recall: The Role of Shadowing in Active Vo
 date:   2024-03-07 03:30:19 +0100
 categories: [mind]
 ---
-### Enhancing Verbal Fluency and Recall: The Role of Shadowing in Active Vocabulary Enrichment
+<div style="text-align: center;">
+  <img src="/images/verbal_fluency.png" alt="verbal fluency" style="width: 50%;" />
+</div>
+<br><br>
 
 #### Introduction
 
