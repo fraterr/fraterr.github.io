@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Hypothesis - The Magician as an exemplification of the process of creative visualization"
 date:   2024-03-07 03:30:19 +0100
