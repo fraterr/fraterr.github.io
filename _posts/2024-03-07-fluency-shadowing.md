@@ -33,11 +33,11 @@ Application of shadowing in the improvement of fluency and verbal remembrance is
 
 Such an exercise not only expands one's working vocabulary but also strengthens the ability to speak spontaneously and coherently.
 
-1. Active Vocabulary Enrichment: Shadowing is an example of activities that help to provoke new vocabulary in use. This is an active transition, which is indispensable for contributing toward vocabulary retention and utility in a sense that active usage serves to solidify those linguistic connections within the brain.
+1. **Active Vocabulary Enrichment:** Shadowing is an example of activities that help to provoke new vocabulary in use. This is an active transition, which is indispensable for contributing toward vocabulary retention and utility in a sense that active usage serves to solidify those linguistic connections within the brain.
 
-2. Enhanced Rate of Processing of Language: Regular shadowing practice strengthens the rate of processing spoken language in the mind, and as such, the strengths in listening comprehension and quickening the speed of verbal response are clear. Processing speed is one of the most important parameters toward a higher-level fluency in spoken language.
+2. **Enhanced Rate of Processing of Language:** Regular shadowing practice strengthens the rate of processing spoken language in the mind, and as such, the strengths in listening comprehension and quickening the speed of verbal response are clear. Processing speed is one of the most important parameters toward a higher-level fluency in spoken language.
 
-3. Pronunciation and Intonation: Besides shadowing, pronunciation and intonation also get honed in the training of spoken fluency. Good pronunciation and natural intonation are best enhanced for clear articulation with a development talk, enabling the speaker to increase their self-confidence towards language.
+3. **Pronunciation and Intonation:** Besides shadowing, pronunciation and intonation also get honed in the training of spoken fluency. Good pronunciation and natural intonation are best enhanced for clear articulation with a development talk, enabling the speaker to increase their self-confidence towards language.
 
 #### Neuroscientific Perspectives on Shadowing
 
